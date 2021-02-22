@@ -20,3 +20,7 @@ A list of references
 \description{
 Fetch template citations
 }
+\examples{
+get_metadata("Fischer344")
+get_citations("Fischer344")
+}

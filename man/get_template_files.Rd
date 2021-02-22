@@ -45,10 +45,8 @@ Get Template
 }
 \examples{
 temps = templates()
-get_metadata(temps[1])
-get_citations(temps[1])
 list_template_files(temps[1])
 all_files = list_template_files(temps)
 out = list_template_images(temps[1])
-data = get_template_files(out, outdir = tempfile())
+data = get_template_files(out[1:3], outdir = tempfile())
 }
