@@ -12,3 +12,5 @@ data/HCP_1200_csvs/*
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
+^README\.Rmd$
+^\.github$
