@@ -1,0 +1,20 @@
+structure(list(ciric2021templateflow = structure(list(title = "TemplateFlow: a community archive of imaging templates and atlases for improved consistency in neuroimaging",
+                                                      author = structure(list(list(given = "Rastko", family = "Ciric",
+                                                                                   role = NULL, email = NULL, comment = NULL), list(given = "Romy",
+                                                                                                                                    family = "Lorenz", role = NULL, email = NULL, comment = NULL),
+                                                                              list(given = c("William", "Hedley"), family = "Thompson",
+                                                                                   role = NULL, email = NULL, comment = NULL), list(
+                                                                                     given = "Mathias", family = "Goncalves", role = NULL,
+                                                                                     email = NULL, comment = NULL), list(given = "Eilidh",
+                                                                                                                         family = "MacNicol", role = NULL, email = NULL, comment = NULL),
+                                                                              list(given = "Christopher", family = "Markiewicz", role = NULL,
+                                                                                   email = NULL, comment = NULL), list(given = "Yaroslav",
+                                                                                                                       family = "Halchenko", role = NULL, email = NULL,
+                                                                                                                       comment = NULL), list(given = c("Satrajit", "S"),
+                                                                                                                                             family = "Ghosh", role = NULL, email = NULL, comment = NULL),
+                                                                              list(given = c("Krzysztof", "Jacek"), family = "Gorgolewski",
+                                                                                   role = NULL, email = NULL, comment = NULL), list(
+                                                                                     given = "Russell", family = "Poldrack", role = NULL,
+                                                                                     email = NULL, comment = NULL), list(given = NULL,
+                                                                                                                         family = "others", role = NULL, email = NULL, comment = NULL)), class = "person"),
+                                                      journal = "bioRxiv", year = "2021", publisher = "Cold Spring Harbor Laboratory"), bibtype = "Article", key = "ciric2021templateflow")), class = "bibentry", strings = structure(character(0), .Names = character(0)))
