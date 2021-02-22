@@ -40,7 +40,7 @@ get_skeleton = function() {
 #' @param outdir output directory for skeleton
 install_skeleton = function(outdir = tf_home()) {
   skel_file = get_skeleton()
-  unzip(skel_file, overwrite = TRUE, exdir = outdir)
+  utils::unzip(skel_file, overwrite = TRUE, exdir = outdir)
   return(outdir)
 }
 
